@@ -5,30 +5,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AyJayyyyy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="179" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AyJayyyyy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="179" alt="languages graph"  />
 </div>
-<p align="center"> 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AyJayyyyy/AyJayyyyy/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AyJayyyyy/AyJayyyyy/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AyJayyyyy/AyJayyyyy/output/github-snake.svg" />
-</picture>
-</p>
-<div align="center">
-  <a href="https://instagram.com/holahbout.aj" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="46" alt="instagram logo" />
-  </a>
-  <a href="https://twitch.tv/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="46" alt="twitch logo" />
-  </a>
-  <a href="https://discord.gg/YOUR_INVITE_CODE" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="46" alt="discord logo" />
-  </a>
-  <a href="mailto:your.jorelibanez@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="46" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/agustinjorel/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="46" alt="linkedin logo" />
-  </a>
-</div>
 
 <p align="center"> 
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
@@ -78,8 +54,31 @@
   </a>
 </p>
 
+<p align="center"> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AyJayyyyy/AyJayyyyy/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AyJayyyyy/AyJayyyyy/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AyJayyyyy/AyJayyyyy/output/github-snake.svg" />
+</picture>
+</p>
 
-
+<div align="center">
+  <a href="https://instagram.com/holahbout.aj" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="46" alt="instagram logo" />
+  </a>
+  <a href="https://twitch.tv/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="46" alt="twitch logo" />
+  </a>
+  <a href="https://discord.gg/YOUR_INVITE_CODE" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="46" alt="discord logo" />
+  </a>
+  <a href="mailto:your.jorelibanez@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="46" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/agustinjorel/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="46" alt="linkedin logo" />
+  </a>
+</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=AyJayyyyy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="330" alt="streak graph"  />
