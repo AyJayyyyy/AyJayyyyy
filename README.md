@@ -66,9 +66,10 @@
   <a href="https://instagram.com/holahbout.aj" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="46" alt="instagram logo" />
   </a>
-  <a href="https://twitch.tv/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="46" alt="twitch logo" />
-  </a>
+<a href="https://facebook.com/jorel.agustin/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="46" alt="facebook logo" />
+</a>
+
   <a href="https://discord.gg/YOUR_INVITE_CODE" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="46" alt="discord logo" />
   </a>
